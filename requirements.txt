@@ -1,0 +1,4 @@
+-e flask
+pytz
+gunicorn
+requests
